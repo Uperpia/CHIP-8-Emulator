@@ -2,7 +2,7 @@
 
 Emulatore veramente mal scritto (in C99) ma funzionante per il CHIP 8. Il progetto è figlio dell'omonimo corso di [Esadecimale.it](esadecimale.it), tuttavia vi sono alcune fondamentali differenze:
 + Grafica e gestione dell'input è implementata tramite Raylib, unica dipendenza necessaria per la compilazione, mentre il corso usava SDL
-+ Il sonoro non è stato implementato (per pesoculaggine dell'autore)
++ Il sonoro non è stato implementato
 + Invece di gestire l'esecuzione dell'opcode tramite uno switch-case di 35 casi si è preferito usare un'array di puntatori a funzione
 
 ## Link utili
