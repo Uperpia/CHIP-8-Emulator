@@ -5,7 +5,7 @@ CHIP-8 emulator (badly) written in C99. The project is an offshoot of the namesa
 + Sound has not been implemented.
 + Instead of handling opcode execution via a 35-case `switch` statement, an array of function pointers was used. 
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/31fd9e1f-3eb1-45b7-8e02-d109e587f2ab" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5ad2926b-c4f9-41c5-bcc9-0fdc6b5f6df7" />
 
 ## Useful links
 + [Esadecimale's course repo](https://github.com/Esadecimale/chip-8)
